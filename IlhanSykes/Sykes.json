@@ -1,0 +1,14 @@
+{
+    "wait": "*[❗] SABAR SEDANG DI PROSES, ORANG SABAR DISAYANG TUHAN",
+    "error": {
+        "Iv": "*LINK NYA GA VALID NGEN... 😡*",
+        "api": "*ADA MASALAH NIH 🧐*"
+    },
+    "Badbot": "「 *ATTENTION* 」\nUntuk menggunakan fitur jadi bot hanya bisa digunakan oleh owner! Silahkan chat owner untuk meminta jadi bot.",
+    "OnlyGrup": "*[❗] ONLY GROUP*",
+    "owner": "*[❗] ONLY OWNER*",
+    "GrupAdmin": "*[❗] ONLY ADMIN*",
+    "BotAdmin": "*[❗] BOT BUKAN ADMIN*",
+    "ban": "*[❗] NOMER LU DAH KEBANNED!*\n*DONASI AUTO UNBAN*",
+    "CallBlock": "*Dilarang melakukan panggilan telepon kepada bot, Nomor kamu otomatis akan di block.* *Untuk membuka block silahkan chat owner untuk meminta untuk membuka block anda!*"
+}
