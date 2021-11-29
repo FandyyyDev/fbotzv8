@@ -9,7 +9,7 @@ const addFilter = (from) => {
     usedCommandRecently.add(from);
     setTimeout(() => {
         return usedCommandRecently.delete(from);
-    }, 6000); // INI WAKTU JEDA SPAM NYA, DEFAULT 2 DETIK!
+    }, 19000); // INI WAKTU JEDA SPAM NYA, DEFAULT 2 DETIK!
 };
 module.exports = {
     msgFilter: {
